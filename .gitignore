@@ -1,0 +1,5 @@
+venv/
+pycache/
+instance/
+*.db
+.DS_Store
